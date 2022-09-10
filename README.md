@@ -10,9 +10,9 @@ Algumas vezes me senti perdido sem saber o que estudar em seguida. Também deixe
 Para facilitar a caminhada, decidi seguir um roadmap web, com foco em PHP.
 Desta forma fica mais simples ter um caminho direcionado e com bases sólidas.
 
-# [Estudos PHP](https://github.com/igor-exception/PHP_Studies)
+# [Projetos PHP](https://github.com/igor-exception/PHP_Studies)
 
-Estou estudando PHP, aqui poderá encontrar pequenos projetos que fiz para consolidar conhecimento e desafios que faço para mim mesmo.
+Aqui poderá encontrar pequenos projetos que fiz para consolidar conhecimento e desafios que faço para mim mesmo.
 
 
 # [Livros](https://github.com/igor-exception/Books)
