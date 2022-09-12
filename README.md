@@ -18,3 +18,7 @@ Aqui poderá encontrar pequenos projetos que fiz para consolidar conhecimento e 
 # [Livros](https://github.com/igor-exception/Books)
 
 Aqui registro alguns pensamento / aprendizado / algo útil dos livros técnicos e não técnicos.
+
+# [Mapas mentais](https://github.com/igor-exception/mentalMap)
+
+Mapas mentais de algumas tecnologias
